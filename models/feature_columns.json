@@ -1,0 +1,20 @@
+[
+  "Close",
+  "Volume",
+  "RSI_14",
+  "BB_up_20",
+  "BB_dn_20",
+  "BB_width_20",
+  "MACD",
+  "MACD_signal",
+  "MACD_hist",
+  "KF_trend",
+  "KF_gain",
+  "log_ret",
+  "RVol_78",
+  "BPV_78",
+  "MedRV_78",
+  "OU_b",
+  "OU_sigma",
+  "OU_halflife"
+]
